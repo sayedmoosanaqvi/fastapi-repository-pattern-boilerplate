@@ -1,0 +1,13 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Local Database (Never push your actual data!)
+wardrobe.db
+
+# Environment variables (Security)
+.env
+
+# OS files
+.DS_Store

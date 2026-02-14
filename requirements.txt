@@ -1,0 +1,4 @@
+fastapi[all]==0.109.0
+sqlalchemy==2.0.25
+pydantic-settings==2.1.0
+python-multipart==0.0.6
